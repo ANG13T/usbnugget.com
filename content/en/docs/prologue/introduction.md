@@ -8,7 +8,7 @@ draft: false
 images: ['Purple_Thumbnail.png']
 menu:
   docs:
-    parent: "prologue"
+    parent: "get-started"
 weight: 100
 toc: true
 ---
