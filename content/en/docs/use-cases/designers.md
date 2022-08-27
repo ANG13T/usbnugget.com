@@ -1,30 +1,20 @@
 ---
 title: "For Designers"
-description: "Solutions to common problems."
-lead: "Solutions to common problems."
-date: 2020-11-12T15:22:20+01:00
-lastmod: 2020-11-12T15:22:20+01:00
+description: "Print a case, or design a new one."
+lead: "Print a case, or design a new one."
+date: 2020-11-12T13:26:54+01:00
+lastmod: 2020-11-12T13:26:54+01:00
 draft: false
 images: []
-menu: 
+menu:
   docs:
     parent: "use-cases"
-weight: 620
+weight: 610
 toc: true
 ---
 
-## Problems updating npm packages
+To increase the durability of the USB Nugget, we continue to develop a series of 3D printed cases to protect Nuggets from accidental damage.  
+<br />
+You can find the files to print, modify, or remix our case designs in the [case section of our GitHub repository](https://github.com/HakCat-Tech/Nugget-Cases). 
 
-Delete the `./node_modules` folder, and run again:
-
-```bash
-npm install
-```
-
-## Problems with cache
-
-Delete the temporary directories:
-
-```bash
-npm run clean
-```
+<img src="/images/Nugget_Case.png" title="Thumbnail Image" style="width: 100%"/>
