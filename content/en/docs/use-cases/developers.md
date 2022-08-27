@@ -1,7 +1,7 @@
 ---
 title: "For Developers"
-description: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
-lead: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
+description: "Come hack with friends!"
+lead: "Come hack with friends!"
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
@@ -13,20 +13,8 @@ weight: 610
 toc: true
 ---
 
-{{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." />}}
+We welcome contributions from our community! You can find the code for the USB Nugget at our [GitHub repository](https://github.com/HakCat-Tech/RubberNugget/tree/main/RubberNugget). 
+<br /><br />
+We welcome pull requests! Thank you for helping us make the Nugget even more powerful.
 
-## Check for outdated packages
-
-The [`npm outdated`](https://docs.npmjs.com/cli/v7/commands/npm-outdated) command will check the registry to see if any (or, specific) installed packages are currently outdated:
-
-```bash
-npm outdated [[<@scope>/]<pkg> ...]
-```
-
-## Update packages
-
-The [`npm update`](https://docs.npmjs.com/cli/v7/commands/npm-update) command will update all the packages listed to the latest version (specified by the tag config), respecting semver:
-
-```bash
-npm update [<pkg>...]
-```
+<img src="/images/Dev_Nugget.jpeg" title="Thumbnail Image"/>
