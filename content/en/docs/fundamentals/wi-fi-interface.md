@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "advanced-projects"
+    parent: "fundamentals"
 weight: 100
 toc: true
 ---
