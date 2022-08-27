@@ -1,5 +1,5 @@
 ---
-title: "Troubleshooting"
+title: "For Designers"
 description: "Solutions to common problems."
 lead: "Solutions to common problems."
 date: 2020-11-12T15:22:20+01:00
@@ -8,7 +8,7 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "help"
+    parent: "use-cases"
 weight: 620
 toc: true
 ---
