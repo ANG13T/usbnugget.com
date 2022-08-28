@@ -7,36 +7,26 @@ titleAddition = "The Cat-Themed USB Attack Platform in Your Pocket."
 description = "The Cat-Themed USB Attack Platform in Your Pocket."
 
 ## Documentation
-# docsVersion = "0.3"
-
-## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+# docsVersion = "0.1"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
 twitterCreator = "@henkverlinde"
 
 ## JSON-LD
-# schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaName = "HakCat Tech"
+schemaAuthorTwitter = "https://twitter.com/HakCat-Tech"
+schemaAuthorGitHub = "https://github.com/HakCat-Tech/USB-Nugget"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaTwitter = "https://twitter.com/HakCat-Tech"
+schemaGitHub = "https://github.com/HakCat-Tech"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -68,7 +58,7 @@ fillImage = "1270x740 Center" # normalize image size
 footer = "© 2022 HakCat"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2022 HakCat"
 
 # Alert
 alert = false
